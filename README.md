@@ -2,11 +2,10 @@
 
 **All-in-one admin toolkit for Paper & Purpur servers**, rotating MOTDs, maintenance mode, restart countdown and anti-join-flood protection. No NMS, no dependencies, no bloat.
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-CentiGuard-1bd96a?style=for-the-badge)](https://modrinth.com/plugin/centiguard)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge)](https://discord.gg/NgwZYSXnED)
 [![Website](https://img.shields.io/badge/Website-centi09.de-a855f7?style=for-the-badge)](https://centi09.de)
 
-> ⚠️ **This repository is documentation-only.** CentiGuard is closed source, the compiled plugin is distributed via [Releases](../../releases), [Modrinth](https://modrinth.com/plugin/centiguard) and [centi09.de](https://centi09.de/centiguard). No source code lives here.
+> ⚠️ **This repository is documentation-only.** CentiGuard is closed source, the compiled plugin is distributed via [Releases](../../releases) and [centi09.de](https://centi09.de/plugins/centiguard). No source code lives here.
 
 ---
 
@@ -24,7 +23,7 @@
 
 ## 📦 Installation
 
-1. Download `CentiGuard-1.1.1.jar` from [Releases](../../releases) (or [Modrinth](https://modrinth.com/plugin/centiguard))
+1. Download `CentiGuard-1.1.1.jar` from [Releases](../../releases)
 2. Drop it into your `/plugins` folder
 3. Restart the server
 4. Edit `plugins/CentiGuard/config.yml`
@@ -60,10 +59,9 @@ Bug reports, questions or custom plugin work, the Discord is where everything ha
 **→ https://discord.gg/NgwZYSXnED**
 
 - 🌐 Website: https://centi09.de
-- 📖 Documentation: https://centi09.de/centiguard
-- 🟢 Modrinth: https://modrinth.com/plugin/centiguard
+- 📖 Documentation: https://centi09.de/plugins/centiguard
 
-If CentiGuard saves you a plugin slot, a ⭐ on GitHub or Modrinth means a lot.
+If CentiGuard saves you a plugin slot, a ⭐ on GitHub means a lot.
 
 ---
 
