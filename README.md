@@ -74,7 +74,7 @@ If CentiGuard saves you a plugin slot, a ⭐ on GitHub means a lot.
 **Voraussetzungen:** Java 21+, Paper oder Purpur ab 1.21.
 **Support:** https://discord.gg/NgwZYSXnED
 
-> Dieses Repository enthält **nur Dokumentation**. Das Plugin selbst ist closed source, Downloads über Releases, Modrinth oder centi09.de.
+> Dieses Repository enthält **nur Dokumentation**. Das Plugin selbst ist closed source, Downloads über Releases, oder centi09.de.
 
 ---
 
